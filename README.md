@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35175497/README.md)
+
 # E-commerce Sales Analytics (SQL, MySQL 8.0+)
 
 End-to-end SQL project: schema design, sample data, and analytics using joins, CTEs, window functions,
